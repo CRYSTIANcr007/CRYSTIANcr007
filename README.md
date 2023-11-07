@@ -1,5 +1,7 @@
 ###  hi!! <i>my name is</i> <strong>Crystian Rodrigues</strong> 🎖️
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=1000&lines=ou+pode+me+chamar+de+crys)](https://git.io/typing-svg)
+
 Atualmente estou cursando o ensino médio, porém com muita vontade de alcançar a liberdade financeira com programação, estou muito focado e ansioso para ingressar no mercado de trabalha da programação
 
 O QUE EU ESTUDO/ESTUDEI
