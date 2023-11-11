@@ -21,7 +21,7 @@ Atualmente estou cursando o ensino médio, porém com muita vontade de alcançar
 <div align=center>
     <a href="https://github.com/crystiancr007"></a>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=crystiancr007&show_icons=true&theme=merko"/>
-    <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystiancr007&layout=pie&langs_count=7&theme=merko"/>
+    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystiancr007&layout=donut&langs_count=7&theme=merko"/>
 </div>
 
 <hr>
